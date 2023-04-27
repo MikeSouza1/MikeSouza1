@@ -1,16 +1,13 @@
-### Hi there 👋
+<img align="right" width="45%" height="45%" alt="GIF" src="https://raw.githubusercontent.com/henry232323/henry232323/master/images/header.gif" />
 
-<!--
-**MikeSouza1/MikeSouza1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello there! I'm **MikeSouza1**
 
-Here are some ideas to get you started:
+#### Contact
+- Via [Discord](https://discord.com): Yato#1086
+- Via [LinkedIn](https://www.linkedin.com): mikesouzasilva
+- Via [Instagram](https://www.instagram.com): mksz_faded
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Stats
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MikeSouza1&layout=compact&theme=tokyonight)
+![@MikeSouza1](https://github-readme-stats.vercel.app/api?username=MikeSouza1&count_private=true&show_icons=true&theme=tokyonight)
