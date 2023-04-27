@@ -1,6 +1,6 @@
 <img align="right" width="45%" height="45%" alt="GIF" src="https://tenor.com/view/bongo-cat-button-red-button-gif-25263713" />
 
-Olá companheiro(a)! Me chamo Mike de Souza e um desenvolvedor em desenvolvimento😁
+Olá companheiro(a)! Me chamo Mike de Souza e sou um desenvolvedor em desenvolvimento😁
 
 #### Atualmente aprendendo
 - Python
@@ -20,5 +20,5 @@ Olá companheiro(a)! Me chamo Mike de Souza e um desenvolvedor em desenvolviment
 
 #### Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MikeSouza1&layout=compact&theme=merko)
-![@MikeSouza1](https://github-readme-stats.vercel.app/api?username=MikeSouza1&count_private=true&show_icons=true&theme=merko)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MikeSouza1&layout=compact&theme=merko)
+![@MikeSouza1](https://github-readme-stats-sigma-five.vercel.app/api?username=MikeSouza1&count_private=true&show_icons=true&theme=merko)
