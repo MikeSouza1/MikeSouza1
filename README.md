@@ -20,5 +20,5 @@ Olá companheiro(a)! Me chamo Mike de Souza e sou um desenvolvedor em desenvolvi
 
 #### Stats
 
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MikeSouza1&layout=compact&theme=synthwave)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MikeSouza1&layout=compact&theme=dracula)
 ![@MikeSouza1](https://github-readme-stats-sigma-five.vercel.app/api?username=MikeSouza1&count_private=true&show_icons=true&theme=dracula)
