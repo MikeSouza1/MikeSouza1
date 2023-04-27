@@ -1,4 +1,4 @@
-<img align="right" width="45%" height="45%" alt="GIF" src="https://raw.githubusercontent.com/henry232323/henry232323/master/images/header.gif" />
+<img align="right" width="45%" height="45%" alt="GIF" src="https://tenor.com/view/bongo-cat-button-red-button-gif-25263713" />
 
 Olá companheiro(a)! Me chamo Mike de Souza e um desenvolvedor em desenvolvimento😁
 
