@@ -1,4 +1,4 @@
-<img align="right" width="45%" height="45%" alt="GIF" src="https://tenor.com/view/bongo-cat-button-red-button-gif-25263713" />
+<img align="right" width="45%" height="45%" alt="GIF" src="https://media.tenor.com/cthCPXwiJV4AAAAC/bongo-cat-button.gif" />
 
 Olá companheiro(a)! Me chamo Mike de Souza e sou um desenvolvedor em desenvolvimento😁
 
