@@ -4,13 +4,8 @@ Olá companheiro(a)! Me chamo Mike de Souza e sou um desenvolvedor em desenvolvi
 
 #### Atualmente aprendendo
 - Python
-- HTML/CSS
-- MySQL
-- Django
-
-#### Pretendo aprender
 - Infraestrutura de redes
-- Cloud (Amazon AWS, Google Cloud)
+- Cloud (Amazon AWS)
 - DevOps
 
 #### Contatos
