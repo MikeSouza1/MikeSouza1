@@ -21,8 +21,8 @@
 
 ### 📊 Estatísticas do GitHub
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=MikeSouza1&count_private=true&show_icons=true&theme=dracula" height="150" alt="Status" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MikeSouza1&layout=compact&theme=dracula" height="150" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MikeSouza1&count_private=true&show_icons=true&theme=dracula" height="150" alt="Status" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MikeSouza1&layout=compact&theme=dracula" height="150" alt="Top Langs" />
 </div>
 
 ### 📫 Como me encontrar
