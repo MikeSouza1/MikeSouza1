@@ -19,12 +19,6 @@
   <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure" />
 </div>
 
-### 📊 Estatísticas do GitHub
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MikeSouza1&count_private=true&show_icons=true&theme=dracula" height="150" alt="Status" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MikeSouza1&layout=compact&theme=dracula" height="150" alt="Top Langs" />
-</div>
-
 ### 📫 Como me encontrar
 <div align="left">
   <a href="https://www.linkedin.com/in/mikesouzasilva" target="_blank">
